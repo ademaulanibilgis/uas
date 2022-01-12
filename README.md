@@ -6,7 +6,7 @@
 - _kelas : 312110180_
 
 **package dan modul**
-![gambar1](screenshot/ss1.png)
+![gambar1](screenshot/ss.png)
 
 **daftar nilai**
 - tambah data
@@ -142,3 +142,5 @@ while True:
 **output**
 ![gambar2](screenshot/ss2.png)
 ![gambar3](screenshot/ss3.png)
+**output main.py**
+![gambar4](screenshot/ss4.png)
