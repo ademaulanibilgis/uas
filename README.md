@@ -144,3 +144,5 @@ while True:
 ![gambar3](screenshot/ss3.png)
 **output main.py**
 ![gambar4](screenshot/ss4.png)
+
+**selesai, terimakasih**
