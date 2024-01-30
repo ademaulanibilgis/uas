@@ -2,8 +2,7 @@
 
 ### profil
 - _nama : Ade maulani bilgis_
-- _Nim : 312110180_
-- _kelas : 312110180_
+- _kelas : TI.21.A1_
 
 **package dan modul**
 ![gambar1](screenshot/ss.png)
